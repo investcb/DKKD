@@ -1,0 +1,7 @@
+{
+  "name": "Jr- Studio - Hệ Thống Trợ Lý Pháp Lý Doanh Nghiệp",
+  "description": "Phần mềm thông minh hỗ trợ phân tích văn bản pháp luật, soạn thảo hồ sơ đăng ký kinh doanh và quản lý biểu mẫu theo Nghị định 168.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
